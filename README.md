@@ -1,14 +1,15 @@
-![image](https://github.com/kimyongbinn/Geomin/assets/42797251/43a9ebb2-4edc-44dc-bf36-1dd61cdd8e26)# Geomin
+# Geomin
 
 # SpringBoot Project
-* 도서 구매 및 중고거래 플랫폼
-* 7인의 구성원이 약 5주 간 개발 진행
-
+* 바둑 교육 사이트 구현
+![image](https://github.com/kimyongbinn/Geomin/assets/42797251/c209b00b-87d0-491d-8844-c2660f887033)
 ## 📌 담당 기술 구현 - 김용빈
 
 **1) 학습그룹 가입신청 / 학습자료 / 매출 조회**
+
 ## ERD
 ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/cba72c5a-ab23-476c-86f4-a4b19b673199)
+
 
 ## 📰 UI
 * 학습그룹 가입신청
