@@ -13,6 +13,7 @@
 
 ## 📰 UI
 * 학습그룹 가입신청
+![image](https://github.com/kimyongbinn/Geomin/assets/42797251/cd634e34-284d-44dc-9255-e3e056eb052f)
 ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/1825172e-d846-43e5-93f4-0a5e65494479)
 
 * 학습자료
