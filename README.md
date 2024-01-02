@@ -27,7 +27,8 @@
 
 * 매출 조회
   ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/a283eb88-b148-4614-8d89-97dea2ce3470)
-  ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/45fd841b-61f1-497a-b954-a1865bbc2d6c)
+  ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/11adc2a4-19d5-4616-9d95-06a4d6d9387a)
+
 
 
 # ⏰ 개발 기간
