@@ -14,7 +14,7 @@
   - package com.choongang.gb2023501.ybService
 - Model
   - package com.choongang.gb2023501.model.EduMaterials
-  -                                      .SalesTotalDTO
+  - package com.choongang.gb2023501.model.SalesTotalDTO                                    
 Domain 
   - package com.choongang.gb2023501.domain
 
