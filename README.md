@@ -4,15 +4,15 @@
 * 바둑 교육 사이트 구현
 ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/c209b00b-87d0-491d-8844-c2660f887033)
 ## 📌 담당 기술 구현 - 김용빈
--Controller 
+- Controller 
   - package com.choongang.gb2023501.controller.ybController
--Repository
+- Repository
   - package com.choongang.gb2023501.ybRepository
--Dao
+- Dao
   - package com.choongang.gb2023501.ybDao
--Service
+- Service
   - package com.choongang.gb2023501.ybService
--Model
+- Model
   - package com.choongang.gb2023501.model.EduMaterials
   -                                      .SalesTotalDTO
 Domain 
