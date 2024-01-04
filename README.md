@@ -15,7 +15,7 @@
 - Model
   - package com.choongang.gb2023501.model.EduMaterials
   - package com.choongang.gb2023501.model.SalesTotalDTO                                    
-Domain 
+- Domain 
   - package com.choongang.gb2023501.domain
 
 **학습그룹 가입신청 / 학습자료 / 매출 조회**
