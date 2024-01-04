@@ -4,13 +4,13 @@
 * 바둑 교육 사이트 구현
 ![image](https://github.com/kimyongbinn/Geomin/assets/42797251/c209b00b-87d0-491d-8844-c2660f887033)
 ## 📌 담당 기술 구현 - 김용빈
-### Controller (package com.choongang.gb2023501.controller.ybController) 
-### Repository (package com.choongang.gb2023501.ybRepository)
-### Dao (package com.choongang.gb2023501.ybDao)
-### Service (package com.choongang.gb2023501.ybService)
-### Model (package com.choongang.gb2023501.model.EduMaterials
-###                                             .SalesTotalDTO
-### Domain (package com.choongang.gb2023501.domain)
+***Controller (package com.choongang.gb2023501.controller.ybController)***
+***Repository (package com.choongang.gb2023501.ybRepository)***
+***Dao (package com.choongang.gb2023501.ybDao)***
+***Service (package com.choongang.gb2023501.ybService)***
+***Model (package com.choongang.gb2023501.model.EduMaterials***
+                                            ***.SalesTotalDTO***
+***Domain (package com.choongang.gb2023501.domain)***
 
 **학습그룹 가입신청 / 학습자료 / 매출 조회**
 - 학습그룹 가입신청
